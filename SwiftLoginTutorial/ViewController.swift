@@ -100,7 +100,7 @@ class ViewController: UIViewController, FBSDKLoginButtonDelegate {
         self.name.hidden = false
         self.gender.hidden = false
         self.email.hidden = false
-        self.picture.hidden = false
+        self.picture.hidden = false 
         
     }
     
